@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mdiro2000
 - 👀 I’m interested in ... ai and machine and deep learning and security and legal hachking
-- 🌱 I’m currently learning ... c++ and python for basicly
+- 🌱 I’m currently learning ... c++ and python for basically
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
